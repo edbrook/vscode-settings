@@ -1,0 +1,28 @@
+{
+    "editor.tabSize": 4,
+    "workbench.startupEditor": "welcomePage",
+    "python.pythonPath": "python3",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "java.home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/*.class": true,
+        "**/.vscode": true,
+        "**/CVS": true,
+        "**/node_modules": true,
+        "**/__pycache__": true,
+        "**/.*.swp": true,
+        "**/*.pyc": true,
+        "**/yarn.lock": true,
+        "**/.DS_Store": true
+    },
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "extensions.ignoreRecommendations": false,
+    "git.confirmSync": false,
+    "editor.parameterHints": false,
+    "go.inferGopath": true,
+    "editor.rulers": [80]
+}
